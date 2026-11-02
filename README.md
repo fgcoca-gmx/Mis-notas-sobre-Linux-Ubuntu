@@ -1,2 +1,4 @@
-# Mis-notas-sobre-Linux-Ubuntu
+# Mis notas sobre Linux-Ubuntu
 Notas muy rápidas de cosas que he ido viendo en Linux y que me resultan útiles
+
+[Enlace a los contenidos](https://fgcoca-gmx.github.io/Mis-notas-sobre-Linux-Ubuntu/)
