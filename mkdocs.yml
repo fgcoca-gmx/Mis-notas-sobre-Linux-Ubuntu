@@ -43,6 +43,7 @@ nav:
   - Peek no graba el cursor del ratón: peek.md
   - Cerrar programas que no responden: close.md
   - dpkg: dpkg.md
+  - Ventana censuradora de área de pantalla: censura.md
   - Miscelanea:
     - Autor: Miscelanea/about.md 
     - Licencias: Miscelanea/lic.md
